@@ -88,3 +88,4 @@ Experts we need input and review from:
 * Definition of origin: https://html.spec.whatwg.org/multipage/origin.html#origin
 * https://www.w3.org/Consortium/cepc/
 * https://datatracker.ietf.org/doc/html/rfc6973
+Created by Jason Heise Owned by Jason Heise heisejason-png Giters https://www.facebook.com  Owned by Mark Zuckerberg 
